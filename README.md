@@ -4,6 +4,8 @@
 ![Python](https://img.shields.io/pypi/pyversions/morsekit)
 ![License](https://img.shields.io/github/license/austinewoody/morsekit)
 ![Downloads](https://img.shields.io/pypi/dm/morsekit)
+![Stars](https://img.shields.io/github/stars/austinewoody/morsekit)
+![Last Commit](https://img.shields.io/github/last-commit/austinewoody/morsekit)
 
 A Python package for encoding and decoding Morse code with CLI support.
 
